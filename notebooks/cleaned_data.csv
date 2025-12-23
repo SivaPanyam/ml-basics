@@ -1,0 +1,4 @@
+Name,Age,Department,Salary,Age_Group
+Alice,22,AI,5000.0,Young
+Bob,25,ML,,Adult
+Charlie,30,Data,7000.0,Adult
